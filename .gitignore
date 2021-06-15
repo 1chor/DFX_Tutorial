@@ -1,0 +1,69 @@
+#########
+#Exclude .gitignore
+#########
+!.gitignore
+
+###########################################################################
+##	VIVADO
+###########################################################################
+
+#########
+#Source / constraint files:
+#########
+!Sources/
+
+#########
+#IP files
+#########
+!ip_repo/
+#ip_repo/ft_cores/*
+
+#########
+#bif files
+#########
+#!generated_bitstreams/*.bif
+#generated_bitstreams/*.bit
+
+#########
+#Project files
+#########
+*.xpr
+
+#########
+#Scripts
+#########
+!scripts/
+
+#########
+#Log - files
+#########
+*.log
+*.jou
+*.str
+*.tmp
+
+#########
+#Simulation generated files
+#########
+*.ghw
+*.gtkw
+*.cf
+*.vcd
+
+#########
+#ignore folders generated from vivado
+#########
+.Xil/
+*.srcs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.sdk/
+hd_visual/
+
+#########
+#ignore reports folders
+#########
+reports/
