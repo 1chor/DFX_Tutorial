@@ -10,15 +10,15 @@
   \___\/\___\ 
  
 *************************************************************************
-  __________     ___    ___ 	  ____                      ____
- | 		    |   |   |  |   |	  \   \	       ____		   /   /
- |___    ___|   |   |  |   |	   \   \	  /    \	  /   /
-	 |  | 	    |   |  |   |	    \   \	 /      \    /   /
-	 |  | 	    |   |  |   |		 \	 \  /   __	 \  /   /
-	 |  | 	    |   |  |   |		  \   \/   /  \   \/   /
-	 |  | 	    |   |__|   |		   \	  /	   \	  /
-	 |  | 	    |          |		    \	 /	    \	 /
- 	 |__| 	    |__________|			 \__/		 \__/
+  __________     ___    ___       ____                      ____
+ |          |   |   |  |   |      \   \        ____        /   /
+ |___    ___|   |   |  |   |       \   \      /    \      /   /
+     |  |       |   |  |   |        \   \    /      \    /   /
+     |  |       |   |  |   |         \   \  /   __   \  /   /
+     |  |       |   |  |   |          \   \/   /  \   \/   /
+     |  |       |   |__|   |           \      /    \      /
+     |  |       |          |            \    /      \    /
+     |__|       |__________|             \__/        \__/
   
 This Tutorial was adapted by Andreas Dejmek.
 
@@ -26,7 +26,7 @@ This Tutorial was adapted by Andreas Dejmek.
 
 Vendor: Xilinx 
 Current readme.txt Version: 1.0
-Date Last Modified:  15 JUN 2021
+Date Last Modified:  18 JUN 2021
 Date Created: 15 JUN 2021
 
 Associated Filename: UG947
@@ -92,7 +92,7 @@ This readme file contains these sections:
             Readme  
 Date        Version      Revision Description
 =========================================================================
-15JUN2021	1.0	Initial Tutorial release (Xilinx Version: 1.41)
+15JUN2021   1.0 Initial Tutorial release (Xilinx Version: 1.41)
 =========================================================================
 
 
@@ -100,7 +100,7 @@ Date        Version      Revision Description
 
 This readme describes how to use the files that come with this tutorial.
 
-This design targets only the XIlinx ZCU102 Evaluation Kit and is used to 
+This design targets only the Xilinx ZCU102 Evaluation Kit and is used to 
 highlight the project-based software flow for Dynamic Function eXchange.  
 
 
